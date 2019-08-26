@@ -1,2 +1,2 @@
-# R-project
+# School project (elementary) 
 Basic school project
